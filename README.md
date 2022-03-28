@@ -21,7 +21,7 @@
 ## Project
 ### Vision
 
-[Smart Count System based on Object Detection using Deep Learning](https://www.notion.so/Smart-Count-System-based-on-Object-Detection-using-Deep-Learning-624659779ee445caa09768d3a6175996) **2022 ~ (진행 중)**
+[**Smart Count System based on Object Detection using Deep Learning**](https://www.notion.so/Smart-Count-System-based-on-Object-Detection-using-Deep-Learning-624659779ee445caa09768d3a6175996) **2022 ~ (진행 중)**
 
 - 범주: Paper
 - 개요: 딥러닝을 이용한 클라우드 기반 계수 시스템 제안
@@ -43,7 +43,7 @@
 <br><br>
 
 
-[딥러닝 기반 분석 결과 예측 방법 및 장치](https://www.notion.so/cd98ac81e40d4a9393cc1f8520c8ac94) **2021**
+[**딥러닝 기반 분석 결과 예측 방법 및 장치**](https://www.notion.so/cd98ac81e40d4a9393cc1f8520c8ac94) **2021**
 
 - 범주: Patent
 - 요약: 감염 진단 키트 결과의 이른 예측으로 진단 시간 감소를 목표로 한 장치
@@ -53,7 +53,7 @@
 
 <br><br>
 
-[손 글씨 인식을 위한 딥러닝 모델](https://www.notion.so/2441f06cc2074d1c86b502cc0ab77a0e)  **2018**
+[**손 글씨 인식을 위한 딥러닝 모델**](https://www.notion.so/2441f06cc2074d1c86b502cc0ab77a0e)  **2018**
 
 - 범주: Poster paper
 - 요약: 손글씨 인식을 위해 여러 폰트의 알파벳 데이터 학습 및 성능 평가
@@ -66,7 +66,7 @@
 
 ### NLP
 
-[**Customer Service Representative Assist System Based on Natural Language Processing** 1](https://www.notion.so/Customer-Service-Representative-Assist-System-Based-on-Natural-Language-Processing-1-64f1722755324646ade42a6e3e2a85d1) **2019**
+[**Customer Service Representative Assist System Based on Natural Language Processing**](https://www.notion.so/Customer-Service-Representative-Assist-System-Based-on-Natural-Language-Processing-1-64f1722755324646ade42a6e3e2a85d1) **2019**
 
 - 범주: Team project
 - 개요: 기계학습 기반 고객 상담원 지원 시스템
@@ -76,7 +76,7 @@
 
 <br><br>
 
-[[Korean Customer Service Associate Assist System Based on Machine Learning](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=n2dJ3jEAAAAJ&alert_preview_top_rm=2&citation_for_view=n2dJ3jEAAAAJ:u-x6o8ySG0sC)](https://www.notion.so/Korean-Customer-Service-Associate-Assist-System-Based-on-Machine-Learning-60f78173c3ae4f2ebb3337022851d227) **2019**
+[**Korean Customer Service Associate Assist System Based on Machine Learning**](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=n2dJ3jEAAAAJ&alert_preview_top_rm=2&citation_for_view=n2dJ3jEAAAAJ:u-x6o8ySG0sC) **2019**
 
 - 범주: Paper
 - 개요: 기계학습 기반 한국어 고객 상담원 지원 시스템
